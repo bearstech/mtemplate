@@ -1,0 +1,11 @@
+bin
+build
+dist
+include
+lib
+*.egg-info
+*.pex
+*.pyc
+wheelhouse
+.ropeproject
+.Python
